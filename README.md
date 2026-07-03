@@ -112,6 +112,6 @@ Evidence:
 ## 📫 Contact
 
 - GitHub: [nampypy01684](https://github.com/nampypy01684)
-- LinkedIn: Add your LinkedIn URL here
+- LinkedIn: https://www.linkedin.com/in/v%C3%B5-ho%C3%A0i-nam-214b40263/?locale=vi
 - Email: hoainam01684@gmail.com
 
