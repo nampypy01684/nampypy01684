@@ -1,6 +1,6 @@
 # Hi, I'm Hoai Nam 👋
 
-## QA/QC Intern | Manual Testing | API Testing | Automation Testing
+## QC | Manual Testing | API Testing | Automation Testing
 
 I am **Võ Hoài Nam**, a QC-oriented tester from Vietnam with hands-on experience in **Manual Testing, API Testing, Automation Testing, Database Testing, and Performance Testing**.
 
